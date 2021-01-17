@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/test_timer.git/static/css/main.47f2f7a9.chunk.css",
-    "main.js": "/test_timer.git/static/js/main.64e2d166.chunk.js",
-    "main.js.map": "/test_timer.git/static/js/main.64e2d166.chunk.js.map",
-    "runtime-main.js": "/test_timer.git/static/js/runtime-main.032f8a8f.js",
-    "runtime-main.js.map": "/test_timer.git/static/js/runtime-main.032f8a8f.js.map",
-    "static/js/2.a24afc96.chunk.js": "/test_timer.git/static/js/2.a24afc96.chunk.js",
-    "static/js/2.a24afc96.chunk.js.map": "/test_timer.git/static/js/2.a24afc96.chunk.js.map",
-    "index.html": "/test_timer.git/index.html",
-    "static/css/main.47f2f7a9.chunk.css.map": "/test_timer.git/static/css/main.47f2f7a9.chunk.css.map",
-    "static/js/2.a24afc96.chunk.js.LICENSE.txt": "/test_timer.git/static/js/2.a24afc96.chunk.js.LICENSE.txt",
-    "static/media/history.c8fc2a57.svg": "/test_timer.git/static/media/history.c8fc2a57.svg",
-    "static/media/pause.55d15ca6.svg": "/test_timer.git/static/media/pause.55d15ca6.svg",
-    "static/media/play2.ec48d875.svg": "/test_timer.git/static/media/play2.ec48d875.svg",
-    "static/media/stop.4e16beda.svg": "/test_timer.git/static/media/stop.4e16beda.svg"
+    "main.css": "/test_timer/static/css/main.47f2f7a9.chunk.css",
+    "main.js": "/test_timer/static/js/main.64e2d166.chunk.js",
+    "main.js.map": "/test_timer/static/js/main.64e2d166.chunk.js.map",
+    "runtime-main.js": "/test_timer/static/js/runtime-main.0da57e2d.js",
+    "runtime-main.js.map": "/test_timer/static/js/runtime-main.0da57e2d.js.map",
+    "static/js/2.a24afc96.chunk.js": "/test_timer/static/js/2.a24afc96.chunk.js",
+    "static/js/2.a24afc96.chunk.js.map": "/test_timer/static/js/2.a24afc96.chunk.js.map",
+    "index.html": "/test_timer/index.html",
+    "static/css/main.47f2f7a9.chunk.css.map": "/test_timer/static/css/main.47f2f7a9.chunk.css.map",
+    "static/js/2.a24afc96.chunk.js.LICENSE.txt": "/test_timer/static/js/2.a24afc96.chunk.js.LICENSE.txt",
+    "static/media/history.c8fc2a57.svg": "/test_timer/static/media/history.c8fc2a57.svg",
+    "static/media/pause.55d15ca6.svg": "/test_timer/static/media/pause.55d15ca6.svg",
+    "static/media/play2.ec48d875.svg": "/test_timer/static/media/play2.ec48d875.svg",
+    "static/media/stop.4e16beda.svg": "/test_timer/static/media/stop.4e16beda.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.032f8a8f.js",
+    "static/js/runtime-main.0da57e2d.js",
     "static/js/2.a24afc96.chunk.js",
     "static/css/main.47f2f7a9.chunk.css",
     "static/js/main.64e2d166.chunk.js"
