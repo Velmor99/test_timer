@@ -2,6 +2,7 @@
   "name": "test_task",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Velmor99.github.io/test_timer",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.3",
@@ -20,11 +21,6 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Velmor99"
-  },
-  "homepage": "https://Velmor99.github.io/test_timer.git",
   "eslintConfig": {
     "extends": [
       "react-app",
